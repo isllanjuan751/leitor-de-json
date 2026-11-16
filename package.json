@@ -1,0 +1,13 @@
+{
+  "name": "leitor-de-json",
+  "version": "1.0.0",
+  "description": "Um leitor de JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Isllan Juan codezinho 99 da shopee compensa mais",
+  "license": "ISC",
+  "type": "commonjs"
+}
